@@ -18,7 +18,7 @@ Source:
 import csv
 
 #Local import
-import db_service as dbs
+import db as dbs
 
 
 def read_csv_and_store_in_db():
