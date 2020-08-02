@@ -11,7 +11,7 @@ import random
 
 # Local import
 import euc_developers_5_criteria as s2
-import db_service as dbs
+import db as dbs
 
 #----------------------------------------------------------------------------#
 # DB Config.

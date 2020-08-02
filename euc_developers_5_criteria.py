@@ -18,11 +18,11 @@ Tact-id:836
 
 '''
 
-from db_service import get_all_linkedin_url_from_db as get_urls
+from db import get_all_linkedin_url_from_db as get_urls
 
-from db_service import get_all_data_from_db as get_data
+from db import get_all_data_from_db as get_data
 
-from db_service import pd_get_data as pd_data
+from db import pd_get_data as pd_data
 
 import pandas as pd
 import math
